@@ -22,4 +22,5 @@ String greetBob(Person person) => person.greet('Bob');
 void main() {
   print(greetBob(Person('Kathy')));
   print(greetBob(Impostor()));
+  print(greetBob(Person('Petr')));
 }
