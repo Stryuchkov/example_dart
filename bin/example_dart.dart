@@ -1,26 +1,14 @@
-class Person {
-  // In the interface, but visible only in this library.
-  final String _name;
+main(){
 
-  // Not in the interface, since this is a constructor.
-  Person(this._name);
+var a = 25, b =10, c=17;
+// максимум из трех чисел
+var max = a > b ? a > c ? a : c < b ? b : c : b > c ? b : c;
 
-  // In the interface.
-  String greet(String who) => 'HI, $who. I am $_name.';
-}
+print('Max is $max');
 
-// An implementation of the Person interface.
-class Impostor implements Person {
-  String get _name => '';
 
-  String greet(String who) => 'Hi $who. Do you know who I am?';
+final summ = max + 100;
+ print('Max is $summ');
 
-}
-
-String greetBob(Person person) => person.greet('Bob');
-
-void main() {
-  print(greetBob(Person('Kathy')));
-  print(greetBob(Impostor()));
-  print(greetBob(Person('Albert')));
-}
+// 25
+ }
