@@ -1,0 +1,29 @@
+[33mcommit bdca1d6d567e946962affa6fad6b2cbbd04088a6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Konstantin <kosta-kosta74@mail.ru>
+Date:   Wed Dec 13 01:12:15 2023 +0300
+
+    add func print
+
+[33mcommit ccd27d0aa030f47ee66a8351b9d1aeb6d137c720[m
+Author: Konstantin <kosta-kosta74@mail.ru>
+Date:   Wed Dec 13 01:09:08 2023 +0300
+
+    commit 1
+
+[33mcommit a0f8e9793c135b0b553198d1d3799d5a4a11fdb0[m
+Author: Konstantin <kosta-kosta74@mail.ru>
+Date:   Tue Dec 12 22:53:11 2023 +0300
+
+    'commit4'
+
+[33mcommit 13e6859fe9def7a2874cbacb08a7720bfa21f027[m
+Author: Konstantin <kosta-kosta74@mail.ru>
+Date:   Tue Dec 12 21:20:15 2023 +0300
+
+    'commit3'
+
+[33mcommit aceb347fef9436f4fddff675b0b377aa58447fab[m
+Author: Konstantin <kosta-kosta74@mail.ru>
+Date:   Tue Dec 12 21:06:29 2023 +0300
+
+    'commit2'
